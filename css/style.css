@@ -112,9 +112,9 @@ p {
     width: 100%;
 }
 #input #phoneNumber{
-    height: 33px;
-    width: 180px;
-    font-size: 13px;
+    height: 34px;
+    width: 183px;
+    font-size: 14px;
     font-weight: 535;
     color: #000;
     padding-left: 10px;
@@ -137,11 +137,13 @@ iframe{
     padding: 0;
     color: red;
     margin: 8px 0;
+	font-weight: bold;
 }
 #nhaptt{
     color: red;
     text-align: center;
     margin: 10px 0 0 0;
+	font-weight: bold;
 }
 /* ==================== MOBILE ==================== */
 @media only screen and (max-width: 576px){
@@ -172,14 +174,6 @@ iframe{
         margin: 0;
         padding: 0;
         width: 100%;
-    }
-    #input #phoneNumber{
-        height: 33px;
-        width: 180px;
-        font-size: 13px;
-        font-weight: 535;
-        color: #000;
-        padding-left: 10px;
     }
     iframe{
         margin-left: 15px;
