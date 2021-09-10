@@ -134,7 +134,7 @@ iframe{
 }
 #card #warn p{
     margin: 0;
-    padding: 0;
+    padding: 8px 0;
     color: red;
     margin: 8px 0;
 	font-weight: bold;
