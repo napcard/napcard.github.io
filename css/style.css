@@ -113,7 +113,7 @@ p {
 }
 #input #phoneNumber{
     height: 34px;
-    width: 185px;
+    width: 182px;
     font-size: 14px;
     font-weight: 535;
     color: #000;
@@ -170,13 +170,8 @@ iframe{
         background-color: #FFF;
         z-index: 99999;
     }
-    #input form{
-        margin: 0;
-        padding: 0;
-        width: 100%;
-    }
     iframe{
-        margin-left: 15px;
+        margin-left: 13px;
         margin-top: 22px;
     }
     #card #warn{
